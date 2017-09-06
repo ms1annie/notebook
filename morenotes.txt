@@ -1,0 +1,4 @@
+git status
+git add <file> staging area
+git st (state)
+git commit -m ‘Comment’
