@@ -1,0 +1,7 @@
+! = run specific line
+!! [bam bam] in bash = repeat last, common in c
+> = redirects output of the command to a file
+>> = double
+head = display first 10 lines of a file; -n 20 = 20 lines
+tail = display last 10 lines of a file
+find ~/<directory> -name <file>
