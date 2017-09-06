@@ -1,0 +1,17 @@
+git init staging area and history
+get status
+git add <file> staging area
+git st (state)
+git commit -m ‘Comment’
+
+Commit
+-id
+-changes
+-message
+-timestamp
+-author
+
+git confi —list
+git log - show history
+git la - show details of changes
+git ll - condensed form
